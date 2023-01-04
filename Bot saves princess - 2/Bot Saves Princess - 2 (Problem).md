@@ -13,15 +13,17 @@ Grid is indexed using Matrix Convention
 
 Print out the moves you will take to rescue the princess in one go. The moves must be separated by '\n', a newline. The valid moves are LEFT or RIGHT or UP or DOWN.
 
-> Sample input
-> 
-> 3
-> ---
-> -m-
-> p--
-> Sample output
-> DOWN
-> LEFT
+#### Sample input
+
+3
+\-\-\-
+\-m\-
+p\-\-
+
+#### Sample output
+
+DOWN
+LEFT
 
 
 ## Task
