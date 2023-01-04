@@ -1,4 +1,3 @@
-
 [Source](https://www.hackerrank.com/challenges/saveprincess?isFullScreen=true&hr_b=1)
 
 ## Introduction 
